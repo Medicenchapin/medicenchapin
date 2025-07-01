@@ -61,7 +61,6 @@ Además de los datos, disfruto leer sobre avances en IA, experimentar con nuevas
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ignaciojag/)
 - 📧 [Email](mailto:ignacioag.iid@gmail.com)
-- 🌐 [Portfolio](#)
 
 ¡Estoy emocionado por conectar con profesionales y empresas en el mundo de la **ciencia de datos** y la **inteligencia artificial**! Si tienes un proyecto interesante o quieres colaborar, no dudes en contactarme. 🚀
 
