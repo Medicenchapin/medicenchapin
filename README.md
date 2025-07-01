@@ -51,12 +51,6 @@ Estos libros han sido clave para mi desarrollo profesional:
 
 ---
 
-## 🌟 Intereses Personales
-
-Además de los datos, disfruto leer sobre avances en IA, experimentar con nuevas bibliotecas de Python y compartir conocimientos en plataformas como LinkedIn. ¡Recientemente publiqué sobre mi viaje con *Essential Math for AI*! 📖
-
----
-
 ## 📬 Conéctate conmigo
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ignaciojag/)
